@@ -7,9 +7,9 @@ FA allows--layering, rotating, resizing, bullets...
 Pull requests to clean up, fix things, or make the code less stupid are welcome. (I may take ages
 to do anything about it, but your contributions are valued, I promise.)
 
-While I do have a design background, I am not drawing new icons...but if you  
-have glyphs which fit into the beautiful look of these icons (as determined by me), throw them into the
-issue tracker or make a pull request and we'll see how snooty I am.
+While I do have a design background, I am not drawing new icons...but if you have glyphs which fit into the 
+beautiful look of these icons (as determined by me), throw them into the issue tracker or make a pull request and 
+we'll see how snooty I am.
 
 ## How to Use
 
