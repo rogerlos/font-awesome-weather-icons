@@ -1,0 +1,54 @@
+[
+  {
+    "iconName" : "forecast-io-clear-day",
+    "icon" :     "day-sunny"
+  },
+  {
+    "iconName" : "forecast-io-clear-night",
+    "icon" :     "night-clear"
+  },
+  {
+    "iconName" : "forecast-io-rain",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "forecast-io-snow",
+    "icon" :     "snow"
+  },
+  {
+    "iconName" : "forecast-io-sleet",
+    "icon" :     "sleet"
+  },
+  {
+    "iconName" : "forecast-io-wind",
+    "icon" :     "strong-wind"
+  },
+  {
+    "iconName" : "forecast-io-fog",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "forecast-io-cloudy",
+    "icon" :     "cloudy"
+  },
+  {
+    "iconName" : "forecast-io-partly-cloudy-day",
+    "icon" :     "day-cloudy"
+  },
+  {
+    "iconName" : "forecast-io-partly-cloudy-night",
+    "icon" :     "night-cloudy"
+  },
+  {
+    "iconName" : "forecast-io-hail",
+    "icon" :     "hail"
+  },
+  {
+    "iconName" : "forecast-io-thunderstorm",
+    "icon" :     "thunderstorm"
+  },
+  {
+    "iconName" : "forecast-io-tornado",
+    "icon" :     "tornado"
+  }
+]

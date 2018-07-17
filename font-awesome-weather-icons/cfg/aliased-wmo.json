@@ -1,0 +1,342 @@
+[
+  {
+    "iconName" : "wmo4680-0",
+    "icon" :     "thermometer"
+  },
+  {
+    "iconName" : "wmo4680-00",
+    "icon" :     "thermometer"
+  },
+  {
+    "iconName" : "wmo4680-1",
+    "icon" :     "cloudy"
+  },
+  {
+    "iconName" : "wmo4680-01",
+    "icon" :     "cloudy"
+  },
+  {
+    "iconName" : "wmo4680-2",
+    "icon" :     "thermometer"
+  },
+  {
+    "iconName" : "wmo4680-02",
+    "icon" :     "thermometer"
+  },
+  {
+    "iconName" : "wmo4680-3",
+    "icon" :     "cloudy"
+  },
+  {
+    "iconName" : "wmo4680-03",
+    "icon" :     "cloudy"
+  },
+  {
+    "iconName" : "wmo4680-4",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-04",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-5",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-05",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-10",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-11",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-12",
+    "icon" :     "lightning"
+  },
+  {
+    "iconName" : "wmo4680-18",
+    "icon" :     "strong-wind"
+  },
+  {
+    "iconName" : "wmo4680-20",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-21",
+    "icon" :     "rain-mix"
+  },
+  {
+    "iconName" : "wmo4680-22",
+    "icon" :     "rain-mix"
+  },
+  {
+    "iconName" : "wmo4680-23",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "wmo4680-24",
+    "icon" :     "snow"
+  },
+  {
+    "iconName" : "wmo4680-25",
+    "icon" :     "hail"
+  },
+  {
+    "iconName" : "wmo4680-26",
+    "icon" :     "thunderstorm"
+  },
+  {
+    "iconName" : "wmo4680-27",
+    "icon" :     "dust"
+  },
+  {
+    "iconName" : "wmo4680-28",
+    "icon" :     "dust"
+  },
+  {
+    "iconName" : "wmo4680-29",
+    "icon" :     "dust"
+  },
+  {
+    "iconName" : "wmo4680-30",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-31",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-32",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-33",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-34",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-35",
+    "icon" :     "fog"
+  },
+  {
+    "iconName" : "wmo4680-40",
+    "icon" :     "rain-mix"
+  },
+  {
+    "iconName" : "wmo4680-41",
+    "icon" :     "sprinkle"
+  },
+  {
+    "iconName" : "wmo4680-42",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "wmo4680-43",
+    "icon" :     "sprinkle"
+  },
+  {
+    "iconName" : "wmo4680-44",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "wmo4680-45",
+    "icon" :     "hail"
+  },
+  {
+    "iconName" : "wmo4680-46",
+    "icon" :     "hail"
+  },
+  {
+    "iconName" : "wmo4680-47",
+    "icon" :     "snow"
+  },
+  {
+    "iconName" : "wmo4680-48",
+    "icon" :     "snow"
+  },
+  {
+    "iconName" : "wmo4680-50",
+    "icon" :     "sprinkle"
+  },
+  {
+    "iconName" : "wmo4680-51",
+    "icon" :     "sprinkle"
+  },
+  {
+    "iconName" : "wmo4680-52",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "wmo4680-53",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "wmo4680-54",
+    "icon" :     "snowflake-cold"
+  },
+  {
+    "iconName" : "wmo4680-55",
+    "icon" :     "snowflake-cold"
+  },
+  {
+    "iconName" : "wmo4680-56",
+    "icon" :     "snowflake-cold"
+  },
+  {
+    "iconName" : "wmo4680-57",
+    "icon" :     "sprinkle"
+  },
+  {
+    "iconName" : "wmo4680-58",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "wmo4680-60",
+    "icon" :     "sprinkle"
+  },
+  {
+    "iconName" : "wmo4680-61",
+    "icon" :     "sprinkle"
+  },
+  {
+    "iconName" : "wmo4680-62",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "wmo4680-63",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "wmo4680-64",
+    "icon" :     "hail"
+  },
+  {
+    "iconName" : "wmo4680-65",
+    "icon" :     "hail"
+  },
+  {
+    "iconName" : "wmo4680-66",
+    "icon" :     "hail"
+  },
+  {
+    "iconName" : "wmo4680-67",
+    "icon" :     "rain-mix"
+  },
+  {
+    "iconName" : "wmo4680-68",
+    "icon" :     "rain-mix"
+  },
+  {
+    "iconName" : "wmo4680-70",
+    "icon" :     "snow"
+  },
+  {
+    "iconName" : "wmo4680-71",
+    "icon" :     "snow"
+  },
+  {
+    "iconName" : "wmo4680-72",
+    "icon" :     "snow"
+  },
+  {
+    "iconName" : "wmo4680-73",
+    "icon" :     "snow"
+  },
+  {
+    "iconName" : "wmo4680-74",
+    "icon" :     "snowflake-cold"
+  },
+  {
+    "iconName" : "wmo4680-75",
+    "icon" :     "snowflake-cold"
+  },
+  {
+    "iconName" : "wmo4680-76",
+    "icon" :     "snowflake-cold"
+  },
+  {
+    "iconName" : "wmo4680-77",
+    "icon" :     "snow"
+  },
+  {
+    "iconName" : "wmo4680-78",
+    "icon" :     "snowflake-cold"
+  },
+  {
+    "iconName" : "wmo4680-80",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "wmo4680-81",
+    "icon" :     "sprinkle"
+  },
+  {
+    "iconName" : "wmo4680-82",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "wmo4680-83",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "wmo4680-84",
+    "icon" :     "storm-showers"
+  },
+  {
+    "iconName" : "wmo4680-85",
+    "icon" :     "rain-mix"
+  },
+  {
+    "iconName" : "wmo4680-86",
+    "icon" :     "rain-mix"
+  },
+  {
+    "iconName" : "wmo4680-87",
+    "icon" :     "rain-mix"
+  },
+  {
+    "iconName" : "wmo4680-89",
+    "icon" :     "hail"
+  },
+  {
+    "iconName" : "wmo4680-90",
+    "icon" :     "lightning"
+  },
+  {
+    "iconName" : "wmo4680-91",
+    "icon" :     "storm-showers"
+  },
+  {
+    "iconName" : "wmo4680-92",
+    "icon" :     "thunderstorm"
+  },
+  {
+    "iconName" : "wmo4680-93",
+    "icon" :     "thunderstorm"
+  },
+  {
+    "iconName" : "wmo4680-94",
+    "icon" :     "lightning"
+  },
+  {
+    "iconName" : "wmo4680-95",
+    "icon" :     "thunderstorm"
+  },
+  {
+    "iconName" : "wmo4680-96",
+    "icon" :     "thunderstorm"
+  },
+  {
+    "iconName" : "wmo4680-99",
+    "icon" :     "tornado"
+  }
+]

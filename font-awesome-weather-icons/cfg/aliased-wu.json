@@ -1,0 +1,78 @@
+[
+  {
+    "iconName" : "wu-chanceflurries",
+    "icon" :     "snow-wind"
+  },
+  {
+    "iconName" : "wu-chancerain",
+    "icon" :     "rain"
+  },
+  {
+    "iconName" : "wu-chancesleat",
+    "icon" :     "sleet"
+  },
+  {
+    "iconName" : "wu-chancesnow",
+    "icon" :     "snow"
+  },
+  {
+    "iconName" : "wu-chancetstorms",
+    "icon" :     "thunderstorm"
+  },
+  {
+    "iconName" : "wu-clear",
+    "icon" :     "day-sunny"
+  },
+  {
+    "iconName" : "wu-cloudy",
+    "icon" :     "day-cloudy"
+  },
+  {
+    "iconName" : "wu-flurries",
+    "icon" :     "snow-wind"
+  },
+  {
+    "iconName" : "wu-hazy",
+    "icon" :     "day-haze"
+  },
+  {
+    "iconName" : "wu-mostlycloudy",
+    "icon" :     "day-cloudy"
+  },
+  {
+    "iconName" : "wu-mostlysunny",
+    "icon" :     "day-sunny"
+  },
+  {
+    "iconName" : "wu-partlycloudy",
+    "icon" :     "day-cloudy"
+  },
+  {
+    "iconName" : "wu-partlysunny",
+    "icon" :     "day-sunny"
+  },
+  {
+    "iconName" : "wu-rain",
+    "icon" :     "showers"
+  },
+  {
+    "iconName" : "wu-sleat",
+    "icon" :     "sleet"
+  },
+  {
+    "iconName" : "wu-snow",
+    "icon" :     "snow"
+  },
+  {
+    "iconName" : "wu-sunny",
+    "icon" :     "day-sunny"
+  },
+  {
+    "iconName" : "wu-tstorms",
+    "icon" :     "thunderstorm"
+  },
+  {
+    "iconName" : "wu-unknown",
+    "icon" :     "day-sunny"
+  }
+]

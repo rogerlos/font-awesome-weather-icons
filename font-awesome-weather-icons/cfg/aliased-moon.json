@@ -1,0 +1,114 @@
+[
+   {
+    "iconName" : "moon-0",
+    "icon" :     "moon-new"
+  },
+  {
+    "iconName" : "moon-1",
+    "icon" :     "moon-waxing-crescent-1"
+  },
+  {
+    "iconName" : "moon-2",
+    "icon" :     "moon-waxing-crescent-2"
+  },
+  {
+    "iconName" : "moon-3",
+    "icon" :     "moon-waxing-crescent-3"
+  },
+  {
+    "iconName" : "moon-4",
+    "icon" :     "moon-waxing-crescent-4"
+  },
+  {
+    "iconName" : "moon-5",
+    "icon" :     "moon-waxing-crescent-5"
+  },
+  {
+    "iconName" : "moon-6",
+    "icon" :     "moon-waxing-crescent-6"
+  },
+  {
+    "iconName" : "moon-7",
+    "icon" :     "moon-first-quarter"
+  },
+  {
+    "iconName" : "moon-8",
+    "icon" :     "moon-waxing-gibbous-1"
+  },
+  {
+    "iconName" : "moon-9",
+    "icon" :     "moon-waxing-gibbous-2"
+  },
+  {
+    "iconName" : "moon-10",
+    "icon" :     "moon-waxing-gibbous-3"
+  },
+  {
+    "iconName" : "moon-11",
+    "icon" :     "moon-waxing-gibbous-4"
+  },
+  {
+    "iconName" : "moon-12",
+    "icon" :     "moon-waxing-gibbous-5"
+  },
+  {
+    "iconName" : "moon-13",
+    "icon" :     "moon-waxing-gibbous-6"
+  },
+  {
+    "iconName" : "moon-14",
+    "icon" :     "moon-full"
+  },
+  {
+    "iconName" : "moon-15",
+    "icon" :     "moon-waning-gibbous-1"
+  },
+  {
+    "iconName" : "moon-16",
+    "icon" :     "moon-waning-gibbous-2"
+  },
+  {
+    "iconName" : "moon-17",
+    "icon" :     "moon-waning-gibbous-3"
+  },
+  {
+    "iconName" : "moon-18",
+    "icon" :     "moon-waning-gibbous-4"
+  },
+  {
+    "iconName" : "moon-19",
+    "icon" :     "moon-waning-gibbous-5"
+  },
+  {
+    "iconName" : "moon-20",
+    "icon" :     "moon-waning-gibbous-6"
+  },
+  {
+    "iconName" : "moon-21",
+    "icon" :     "moon-third-quarter"
+  },
+  {
+    "iconName" : "moon-22",
+    "icon" :     "moon-waning-crescent-1"
+  },
+  {
+    "iconName" : "moon-23",
+    "icon" :     "moon-waning-crescent-2"
+  },
+  {
+    "iconName" : "moon-24",
+    "icon" :     "moon-waning-crescent-3"
+  },
+  {
+    "iconName" : "moon-25",
+    "icon" :     "moon-waning-crescent-4"
+  },
+  {
+    "iconName" : "moon-26",
+    "icon" :     "moon-waning-crescent-5"
+  },
+  {
+    "iconName" : "moon-27",
+    "icon" :     "moon-waning-crescent-6"
+  }
+]
