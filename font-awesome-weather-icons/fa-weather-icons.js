@@ -6,6 +6,8 @@
  *
  * Include the aliases you need, if any, by snipping 'aliased-' from the front and '.json' from the back of the
  * JSON filename in cfg.
+ *
+ * Version 1.1
  */
 window.addEventListener( 'DOMContentLoaded', function () {
 
@@ -88,14 +90,24 @@ window.addEventListener( 'DOMContentLoaded', function () {
         /**
          * Gets path of this script for use by fetch()
          *
+         * @since 1.1 Looked specifically for this script instead of relying on happenstance
+         *
          * @returns {string}
          */
         function path() {
 
-            let scripts= document.getElementsByTagName('script'),
-                path= scripts[scripts.length-1].src.split('?')[0];
+            let scripts = document.getElementsByTagName( 'script' ),
+                scr     = 'fa-weather-icons',
+                path;
 
-               return path.split('/').slice(0, -1).join('/')+'/';
+            for ( let a = 0; a < scripts.length; a ++ ) {
+                if ( scripts[ a ].src.indexOf( scr ) > - 1 ) {
+                    path = scripts[ a ].src.split( '?' )[ 0 ];
+                    break;
+                }
+            }
+
+            return path.split( '/' ).slice( 0, - 1 ).join( '/' ) + '/';
         }
 
     }( window.FontAwesome ) )
